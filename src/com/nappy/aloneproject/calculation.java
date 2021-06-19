@@ -9,13 +9,13 @@ public class calculation {
         //덧셈
         int add = x+y;
         //나눗셈
-       int div = x/y;
+        int div = y/x;
         //곱셈
         int mult = x*y;
         //뺄셈
         int sub = x-y;
         //나머지
-        int mod = x%y;
+        int mod = y%x;
         //부등식
         boolean inequality = (x>y);
         // 등식

@@ -1,4 +1,4 @@
-package com.EssenceOfJavaBasic.Chapter2;
+package EssenceOfJavaBasic.Chapter2;
 
 public class Ex2_2 {
     public static void main(String[] args) {

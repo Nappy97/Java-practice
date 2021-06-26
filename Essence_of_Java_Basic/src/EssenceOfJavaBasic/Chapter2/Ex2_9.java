@@ -1,4 +1,4 @@
-package com.EssenceOfJavaBasic.Chapter2;
+package EssenceOfJavaBasic.Chapter2;
 
 import java.util.Arrays;
 
